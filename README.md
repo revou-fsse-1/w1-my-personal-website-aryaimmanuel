@@ -1,1 +1,13 @@
-# personal website
+# Personal Website
+
+A very simple personal website made with html, css, and js
+
+# Site preview
+
+![sitepreview](images/screenshot.jpg)\
+
+# Colors
+
+- #ffc3a1
+- #d3756b
+- #a75d5d
