@@ -1,15 +1,80 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
 
-body{
-    font-family: 'Poppins', sans-serif;
-    background-color: #FFC3A1;
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #ffc3a1;
+  margin: 0;
 }
 
-h1{
-    color: #A75D5D;
-    font-size: 90px;
+a {
+  color: #d3756b;
+  text-decoration: none;
 }
 
-h2{
-    color: #D3756B;
+a:hover {
+  color: #a75d5d;
+}
+
+h1 {
+  color: #a75d5d;
+  font-size: 90px;
+  padding-left: 30px;
+  line-height: 110%;
+  margin-top: 0;
+}
+
+h2 {
+  color: #d3756b;
+  padding-left: 30px;
+}
+
+p {
+  font-size: 30px;
+  color: #a75d5d;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 80%;
+}
+
+li {
+  display: inline;
+  position: relative;
+  padding: 0 18px;
+}
+
+.intro {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.mid-section {
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: justify;
+}
+
+.bottom-section {
+  text-align: center;
+}
+
+.text {
+  padding-top: 0;
+}
+
+.skills-text {
+  font-size: 50px;
+  margin-bottom: 70px;
+}
+
+.skills {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 20px;
 }
