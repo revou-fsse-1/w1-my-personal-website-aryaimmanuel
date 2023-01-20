@@ -4,7 +4,7 @@ A very simple personal website made with html, css, and js
 
 # Site preview
 
-![sitepreview](images/screenshot.jpg)\
+![sitepreview](images/screenshot.png)\
 
 # Colors
 
